@@ -1,0 +1,16 @@
+# 视频文件（太大，不入库）
+*.mp4
+*.mov
+*.avi
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 环境变量
+.env
+.env.local
+
+# 临时文件
+*.tmp
+*.log
